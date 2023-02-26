@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcServiceTest", "GrpcServiceTest\GrpcServiceTest.csproj", "{FC7C8582-64CD-4AFC-BCF1-87A2A13E2323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCClient", "GRPCClient\GRPCClient.csproj", "{73A8FE3C-0B9A-4B00-81E8-D47842C34874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService2", "GrpcService2\GrpcService2.csproj", "{37C04516-1F2B-48BA-8009-30E050EFB021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7C8582-64CD-4AFC-BCF1-87A2A13E2323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7C8582-64CD-4AFC-BCF1-87A2A13E2323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7C8582-64CD-4AFC-BCF1-87A2A13E2323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7C8582-64CD-4AFC-BCF1-87A2A13E2323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A8FE3C-0B9A-4B00-81E8-D47842C34874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A8FE3C-0B9A-4B00-81E8-D47842C34874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A8FE3C-0B9A-4B00-81E8-D47842C34874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A8FE3C-0B9A-4B00-81E8-D47842C34874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C04516-1F2B-48BA-8009-30E050EFB021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C04516-1F2B-48BA-8009-30E050EFB021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C04516-1F2B-48BA-8009-30E050EFB021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C04516-1F2B-48BA-8009-30E050EFB021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

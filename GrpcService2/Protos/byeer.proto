@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService2";
+
+package service2;
+
+// The greeting service definition.
+service Byeer {
+  // Sends a greeting
+  rpc SayBye (ByeRequest) returns (ByeReply);
+}
+
+// The request message containing the user's name.
+message ByeRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message ByeReply {
+  string message = 1;
+}
